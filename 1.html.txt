@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strona Wirtualna</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Wirtualna Strona Główna</h1>
+    </header>
+
+    <section class="content">
+        <p>Witaj na naszej wirtualnej stronie głównej!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Strona Wirtualna</p>
+    </footer>
+
+</body>
+</html>
